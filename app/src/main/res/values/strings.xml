@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EarthShaker</string>
+    <string name="no_internet_connection">NO INTERNEEEEEEEETTTTTTTTT!</string>
+    <string name="no_earthquakes">DONE</string>
+    <string name="load">LOADING</string>
+</resources>
